@@ -13,6 +13,10 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/tonikelope/megabasterd/master/src/main/resources/images/apikey.png"></p>
 
+
+https://techrechard.com/how-to-bypass-daily-mega-download-restrictions-part-2/
+
+
 Step 1: Download the latest java version. You can directly download Java from here.
 
 Step 2: Download MegaBasterd – Mega Downloader from Github. This program works on MAC, Windows, and Linux. Depending upon your OS, you can download the executable file.
@@ -30,7 +34,7 @@ Step 6: Set your download folder to any desired location.
 Step 7: Look for  “Use SmartProxy” and enable it.
 
 YOU CAN ALSO READ:  How to Activate Windows 11 for Free: 3 Methods
-Step 8: Look for free USA proxies. Here are some of the sites that you can use- US Proxy List – Free Proxy List (us-proxy.org), United States proxy servers (free-proxy.cz), 🤖Free Proxy List [5,681 Proxies Online] (geonode.com)
+Step 8: Look for free USA proxies. Here are some of the sites that you can use- US Proxy List – Free Proxy List (us-proxy.org), United States proxy servers (free-proxy.cz), 🤖Free Proxy List [5,681 Proxies Online] (geonode.com) http://free-proxy.cz/en/proxylist/country/US/all/ping/all
 
 Step 9: Copy-paste the proxy list with a port in the following format and click save.
 
